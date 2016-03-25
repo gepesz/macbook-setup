@@ -5,7 +5,7 @@ export PS1="\u@\h \W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ 
 export SUDO_PS1="\[$bakred\]\u@\h\[$txtrst\] \w\$ "
 
 # env vars
-export EDITOR="subl -w"
+export EDITOR="sublime -w"
 
 # aliases
 alias l="ls -la"
