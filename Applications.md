@@ -1,6 +1,5 @@
 ##Order
-* Xcode
-* Homebrew
+Xcode; Homebrew
 
 ##App Store
 Xcode
