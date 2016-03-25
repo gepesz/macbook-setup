@@ -5,5 +5,7 @@ Finder --> Preferences...
 * Disable: Show warning before emptying the Trash
 
 ## Terminal
-* Profiles: Pro
-* Prompt: create _.bash_profile_ (see above)
+* Profile: Pro
+* Prompt
+  * Git clone: https://github.com/jimeh/git-aware-prompt
+  * Create: _.bash_profile_ (see above)
