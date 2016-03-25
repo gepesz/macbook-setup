@@ -21,4 +21,5 @@ Finder --> Preferences...
   * Emmet
   * Git
   * Sass
+  * Theme - Brogrammer
 * Settings: _Sublime.settings_ (see above)
