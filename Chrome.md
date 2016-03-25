@@ -1,7 +1,7 @@
-###Theme
-Google Earthy
+##Theme
+* Google Earthy
 
-###Extensions
-Adblock Plus
-Flashcontrol
-Google Cast
+##Extensions
+* Adblock Plus
+* Flashcontrol
+* Google Cast
