@@ -1,5 +1,6 @@
 ##Order
-Xcode; Homebrew
+1. Xcode
+2. Homebrew
 
 ##App Store
 Xcode
