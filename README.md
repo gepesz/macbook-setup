@@ -1,3 +1,3 @@
 # macbook-setup
 
-## List of essentials when setting up a new Macbook.
+### List of essentials when setting up a new Macbook.
