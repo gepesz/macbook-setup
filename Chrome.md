@@ -5,3 +5,4 @@
 * Adblock Plus
 * Flashcontrol
 * Google Cast
+* Honey
