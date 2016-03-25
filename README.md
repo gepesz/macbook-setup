@@ -1,5 +1,8 @@
-# macbook-setup
+#macbook-setup
+List of essentials when setting up a new Macbook.
 
-### List of essentials when setting up a new Macbook.
-
-* Empty trash without prompt: http://lifehacker.com/5715768/how-to-get-rid-of-the-annoying-empty-trash-conformation-prompt
+## Finder
+Finder --> Preferences...
+* Enable: Show all filename extensions
+* Disable: Show warning before changing an extension
+* Disable: Show warning before emptying the Trash
