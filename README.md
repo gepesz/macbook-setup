@@ -1,8 +1,9 @@
 ## Finder
-Finder --> Preferences...
-* Enable: Show all filename extensions
-* Disable: Show warning before changing an extension
-* Disable: Show warning before emptying the Trash
+* Show Path Bar: Alt + Command + P
+* Finder --> Preferences:
+  * Enable: Show all filename extensions
+  * Disable: Show warning before changing an extension
+  * Disable: Show warning before emptying the Trash
 
 ## Terminal
 * Profile: Pro
