@@ -9,6 +9,7 @@
 * Evernote
 * Dr. Cleaner
 * Homebrew
+* Heroku
 
 ##Web
 * Chrome: https://www.google.com/chrome/browser/desktop/
@@ -27,4 +28,5 @@
 * Homebrew:  http://brew.sh/
 
 ##Homebrew
+* Heroku
 
