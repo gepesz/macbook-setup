@@ -10,6 +10,7 @@
 * Dr. Cleaner
 * Homebrew
 * Heroku
+* Chef DK
 
 ##Web
 * Chrome: https://www.google.com/chrome/browser/desktop/
@@ -18,6 +19,7 @@
 * Sublime Text 3: https://www.sublimetext.com/3
 * ChitChat: https://github.com/stonesam92/ChitChat
 * Visual Studio Code: https://code.visualstudio.com/
+* Chef DK: https://downloads.chef.io/chef-dk/
 
 ##App Store
 * Xcode
