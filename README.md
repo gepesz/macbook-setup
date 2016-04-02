@@ -16,7 +16,7 @@
 * Links:
   * https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings
   * http://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/
-* Packages:
+* Packages: Preferences > Package Settings > Package Control > Settings – User
   * Package Control: https://packagecontrol.io/installation#st3
   * Alignment
   * BracketHighlighter
@@ -24,6 +24,7 @@
   * DocBlockr
   * Emmet
   * Git
+  * Markdown Preview
   * Sass
   * Theme - Brogrammer
 * Settings: _Sublime.settings_ (see above)
