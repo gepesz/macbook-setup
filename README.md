@@ -28,3 +28,6 @@
 ## Git
 * git config: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 * git aliases: https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+
+## Virtualization
+* https://learn.chef.io/local-development/ubuntu/get-set-up/
