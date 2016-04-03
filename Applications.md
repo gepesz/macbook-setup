@@ -10,6 +10,7 @@
 * Dr. Cleaner
 * Homebrew
 * Heroku
+* Tree
 * Chef DK
 
 ##Web
@@ -30,5 +31,6 @@
 * Homebrew:  http://brew.sh/
 
 ##Homebrew
-* Heroku
+* Heroku: brew install heroku
+* Tree: brew install tree
 
