@@ -12,6 +12,7 @@
 * Heroku
 * Tree
 * Chef DK
+* Node
 * Firebase
 
 ##Web
@@ -34,6 +35,7 @@
 ##Homebrew
 * Heroku: brew install heroku
 * Tree: brew install tree
+* Node: brew install node
 
 ##Npm
 * Firebase: npm install -g firebase-tools
