@@ -12,6 +12,7 @@
 * Heroku
 * Tree
 * Chef DK
+* Firebase
 
 ##Web
 * Chrome: https://www.google.com/chrome/browser/desktop/
@@ -33,4 +34,8 @@
 ##Homebrew
 * Heroku: brew install heroku
 * Tree: brew install tree
+
+##Npm
+* Firebase: npm install -g firebase-tools
+
 
