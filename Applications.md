@@ -13,6 +13,7 @@
 * Tree
 * Chef DK
 * Node
+* Gulp
 * Firebase
 
 ##Web
@@ -38,6 +39,7 @@
 * Node: brew install node
 
 ##Npm
+* Gulp: npm install -g gulp-cli
 * Firebase: npm install -g firebase-tools
 
 
