@@ -6,6 +6,7 @@ export SUDO_PS1="\[$txtred\]\u@\h:\[$txtcyn\]\w\[$txtrst\] \$ "
 
 # env vars
 export EDITOR="sublime -w"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home"
 
 # aliases
 alias l="ls -la"
