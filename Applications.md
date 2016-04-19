@@ -27,7 +27,6 @@
 * Visual Studio Code: https://code.visualstudio.com/
 * Chef DK: https://downloads.chef.io/chef-dk/
 * Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
-* Maven: https://maven.apache.org/download.cgi
 
 ##App Store
 * Xcode
@@ -41,6 +40,7 @@
 * Heroku: brew install heroku
 * Tree: brew install tree
 * Node: brew install node
+* Maven: brew install maven
 
 ##Npm
 * Gulp: npm install -g gulp-cli
