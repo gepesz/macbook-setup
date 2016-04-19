@@ -15,6 +15,8 @@
 * Node
 * Gulp
 * Firebase
+* Java
+* Maven
 
 ##Web
 * Chrome: https://www.google.com/chrome/browser/desktop/
@@ -24,6 +26,8 @@
 * ChitChat: https://github.com/stonesam92/ChitChat
 * Visual Studio Code: https://code.visualstudio.com/
 * Chef DK: https://downloads.chef.io/chef-dk/
+* Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* Maven: https://maven.apache.org/download.cgi
 
 ##App Store
 * Xcode
