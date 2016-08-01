@@ -13,6 +13,7 @@
 * Tree
 * Chef DK
 * Node
+* Bower
 * Gulp
 * Firebase
 * Java
@@ -43,6 +44,7 @@
 * Maven: brew install maven
 
 ##Npm
+* Bower: npm install -g bower
 * Gulp: npm install -g gulp-cli
 * Firebase: npm install -g firebase-tools
 
