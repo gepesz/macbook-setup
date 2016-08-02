@@ -18,6 +18,7 @@
 * Firebase
 * Java
 * Maven
+* npm-check-updates
 
 ##Web
 * Chrome: https://www.google.com/chrome/browser/desktop/
@@ -38,14 +39,7 @@
 * Homebrew:  http://brew.sh/
 
 ##Homebrew
-* Heroku: brew install heroku
-* Tree: brew install tree
-* Node: brew install node
-* Maven: brew install maven
+* brew install heroku tree node maven
 
 ##Npm
-* Bower: npm install -g bower
-* Gulp: npm install -g gulp-cli
-* Firebase: npm install -g firebase-tools
-
-
+* npm install -g bower gulp-cli firebase-tools npm-check-updates
