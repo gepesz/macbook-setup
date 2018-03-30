@@ -13,7 +13,7 @@
 
 ## VS Code
 * Download: https://code.visualstudio.com/download
-* Setup _code_ shortcut: https://code.visualstudio.com/docs/setup/mac
+* _code_ shortcut: https://code.visualstudio.com/docs/setup/mac
 
 ## Git
 * git config: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
