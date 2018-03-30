@@ -1,8 +1,10 @@
-##Theme
-* Google Earthy
+#Theme
+* Google Earthy: https://chrome.google.com/webstore/detail/earthy/fhflopcljabdklmedgglmkihdnongdaa?hl=en
 
-##Extensions
+#Extensions
+* Adblock
 * Adblock Plus
-* Flashcontrol
-* Google Cast
 * Honey
+* Momentum
+* Grammarly
+* Backspace to go Back
