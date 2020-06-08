@@ -19,5 +19,13 @@
 * git config: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 * git aliases: https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 
+## Brave
+* How to always launch Brave in Incognito: https://community.brave.com/t/how-to-always-launch-brave-in-incognito-on-a-mac/51686/15
+* How to always launch Chrome in Incognito: https://www.webnots.com/how-to-open-chrome-in-incognito-mode-by-default/
+```bash
+cd /Library/Preferences
+defaults write com.brave.Browser IncognitoModeAvailability -integer 2
+```
+
 ## Virtualization
 * https://learn.chef.io/local-development/ubuntu/get-set-up/
